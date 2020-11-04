@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;package4_serial&apos; to &apos;package4_serializable&apos;&#x0D;&#x0A;- Original project: &apos;Project6_Java_Common_Interfaces&apos;&#x0D;&#x0A;- Original element: &apos;Project6_Java_Common_Interfaces/src/package4_serial&apos;&#x0D;&#x0A;- Renamed element: &apos;Project6_Java_Common_Interfaces/src/package4_serializable&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;package4_serial&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;package4_serial" name="package4_serializable" qualified="false" references="true" stamp="1568875898990" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,58 @@
+1568050416437	Rename type 'MainPrimitiveType'
+1568050809279	Rename package 'unit2_operator'
+1568053136066	Copy package
+1568053615205	Copy package
+1568054597211	Rename package 'unit1_datatype.primitive_type'
+1568054611847	Rename package 'unit1_datatype.wrapper_class_type'
+1568054621771	Rename package 'unit1_datatype.datatype_converting'
+1568054638558	Rename package 'unit4_control_statements.if_else'
+1568054650223	Rename package 'unit4_control_statements.switch_case'
+1568054662237	Rename package 'unit4_control_statements.loops'
+1568054726562	Copy package
+1568055604194	Copy package
+1568055706067	Rename package 'unit6_datatype.collection'
+1568056079981	Rename local variable 'intArr3'
+1568056085532	Rename local variable 'intArr2'
+1568057298039	Rename local variable 'strings1'
+1568061329921	Rename local variable 'stringArr'
+1568062418203	Copy package
+1568062429764	Rename package 'unit6_collection.arraylist'
+1568090219655	Copy package
+1568135942018	Rename package 'unit9_common_classes'
+1568212699108	Rename local variable 'cal'
+1568216678531	Rename local variable 'dtFormater'
+1568217142719	Rename local variable 'sBirthday'
+1568217171320	Rename local variable 'dBirthday'
+1568221130158	Rename package 'unit10_try_catch'
+1568221154528	Rename package 'unit_10_try_catch'
+1568221902011	Rename package 'unit10_try_catch'
+1568224281166	Rename method '_1Try1Catch'
+1568224915603	Rename package 'unit10_try_catch.part1_create_myexception_classes'
+1568293967804	Rename package 'unit8_passing_variables'
+1568294152335	Rename method 'pasedByReference1'
+1568294172041	Rename method 'pasedByReference2'
+1568294437444	Rename local variable 'intVar'
+1568295795306	Rename local variable 'converted'
+1568296164065	Rename package 'unit8_passing_variables_and_boxing'
+1568453481535	Rename package 'unit1_datatype.part1_primitive_type'
+1568453504583	Rename package 'unit1_datatype.part2_wrapper_class_type'
+1568453517493	Rename package 'unit1_datatype.part3_datatype_converting'
+1568453536514	Rename package 'unit2_input_output_data'
+1568453551774	Rename package 'unit3_operator'
+1568453565626	Rename package 'unit4_control_statements.part1_if_else'
+1568453576437	Rename package 'unit4_control_statements.part2_switch_case'
+1568453592729	Rename package 'unit4_control_statements.part3_loops'
+1568453638478	Rename package 'unit5_array'
+1568453667222	Copy packages
+1568453724948	Delete elements
+1568453841763	Copy packages
+1568453903760	Delete elements
+1568453908505	Delete element
+1568453926892	Rename package 'unit8_passing_variables'
+1568453989090	Rename package 'unit10_try_catch.part1_throw_to_others'
+1568454000273	Rename package 'unit10_try_catch.part2_handle_in_try_catch_block'
+1568454013934	Rename package 'unit10_try_catch.part3_create_myexception_classes'
+1568454063723	Copy packages
+1568454082389	Delete elements
+1568454087592	Delete element
+1568454101515	Rename package 'unit11_autoboxing_and_unboxing'

@@ -1,0 +1,30 @@
+1568300161299	Rename package 'unit2_class'
+1568300553987	Delete element
+1568300587144	Rename package 'unit2_inheritance'
+1568302111956	Copy package
+1568304503385	Rename package 'unit2_inheritance'
+1568307209170	Rename local variable 'c'
+1568308032651	Rename package 'unit2_inheritance.part1_from_class'
+1568308043503	Rename package 'unit2_inheritance.part2_from_abstarct_class'
+1568308060487	Rename package 'unit2_inheritance.part3_from_interface'
+1568308684382	Rename package 'unit3_enum'
+1568308816286	Rename local variable 'str'
+1568309595942	Rename package 'unit3_overloading_method'
+1568310322945	Rename local variable 'listParent'
+1568313009535	Delete element
+1568315921005	Delete element
+1568321376776	Rename package 'unit7_common_interface.part2_comparator'
+1568454200597	Copy packages
+1568454212987	Delete elements
+1568454217786	Delete element
+1568454235128	Rename package 'unit1_alias_and_clone'
+1568454246156	Rename package 'unit2_composition'
+1568454255144	Rename package 'unit3_overloading_method_and_parameterlist'
+1568454266658	Rename package 'unit4_enum'
+1568454302988	Rename package 'unit4_inner_class'
+1568454315439	Rename package 'unit4_inner_interface'
+1568454326928	Rename package 'unit5_inheritance.part1_from_class'
+1568454339409	Rename package 'unit5_inheritance.part2_from_abstarct_class'
+1568454350952	Rename package 'unit5_inheritance.part3_from_interface'
+1568454362587	Rename package 'unit5_inheritance.part4_instanceof'
+1568454376390	Rename package 'unit6_polymorphism'
